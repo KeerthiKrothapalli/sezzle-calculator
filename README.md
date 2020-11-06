@@ -13,3 +13,4 @@ The development was done using HTML, CSS, JavaScript, Node.js and is deployed wi
   3. Click 'Submit'.
   4. Perform required operations on the Calculator.
   5. The logs below the calculator shows the lastest operations performed on the app.
+  6. Close the tab to exit.
