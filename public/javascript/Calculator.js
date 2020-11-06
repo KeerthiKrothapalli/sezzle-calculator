@@ -1,8 +1,8 @@
-function dis(val) {
+function show(val) {
     document.getElementById("result").value += val
 }
 
-function solve() {
+function compute() {
     let x = document.getElementById("result").value
     let y = eval(x)
     document.getElementById("input").value = x + "=" + y
