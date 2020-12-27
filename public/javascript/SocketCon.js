@@ -77,7 +77,7 @@ $(function () {
       $('#nameContainer').hide();
       $('#output').show();
       var msg = document.getElementById("name").value;
-      $('p1').append(`Welcome ${msg}! Hope you have fun doing the math.`);
+      $('p1').append(`Welcome ${msg}! Hope you have fun doing the math here.`);
       connection.send(msg);
       $(this).val('');
       input.attr('disabled', 'disabled');
